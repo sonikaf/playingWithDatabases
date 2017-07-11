@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/CS2110/HW/HW2" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/CS2110/HW/HW2" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Documents/CS2110/HW/HW2" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/CS2110/HW/HW2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.1812.17" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1473174500455" />
+              <option name="buildTimestamp" value="1472529600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/CS2110/HW" />
+  </component>
+</application>

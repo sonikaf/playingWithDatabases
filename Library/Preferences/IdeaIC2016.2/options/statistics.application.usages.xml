@@ -1,0 +1,31 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="HW2" values="config.ssh.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.remote.branches.count.1,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1" collectionTime="1473174442685" />
+    </group>
+    <group name="vcs">
+      <project id="HW2" values="Git" collectionTime="1473174442541" />
+    </group>
+    <group name="language-level">
+      <project id="HW2" values="JDK_1_8" collectionTime="1473174442684" />
+    </group>
+    <group name="images.ide.background">
+      <project id="HW2" values="editor 0,frame 0" collectionTime="1473174442683" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="HW2" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1473174442683" />
+    </group>
+    <group name="file-type">
+      <project id="HW2" values="ARCHIVE,Native,IDEA_MODULE,JAVA" collectionTime="1473174442681" />
+    </group>
+    <group name="module type">
+      <project id="HW2" values="JAVA_MODULE" collectionTime="1473174442542" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+    </counts>
+  </component>
+</application>
